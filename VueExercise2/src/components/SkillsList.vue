@@ -21,9 +21,9 @@ export default {
     return {
       dinoArray: [],
       toggle: {
-        0: true,
-        1: true,
-        2: true
+        0: false,
+        1: false,
+        2: false
       }
     }
   },
